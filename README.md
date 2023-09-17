@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**unit-404/unit-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Projects 📦
 
-Here are some ideas to get you started:
+- [x] 🪖 [BTyped2](https://github.com/BlazerNEO/BTyped2) 🪖 - library for encoders and decoders, also for animations.
+- [x] ❤️‍🔥 [InterWork 2](https://github.com/BlazerNEO/InterWork2) ❤️‍🔥 - next-gen pure JS web worker library.
+- [x] 🪭 [BQuery](https://github.com/BlazerNEO/BQuery) 🪭 - JQuery alternative, competitor, wrapper, library.
+- [ ] ☁️  [SkyDesign](https://github.com/BlazerNEO/SkyDesign) ☁️ - WIP new design CSS and JS library.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗿 No active development or no more maintained... 🗿
+
+- [ ] 🖼 [BImage](https://github.com/BlazerNEO/BImage) 🖼 - multiple image formats project.
+- [ ] 📚 [BlazerNEO](https://github.com/BlazerNEO/.github) 📚 - an official repository website.
+
+## 🍉 Spin-Off Projects 🍉
+
+- [ ] 📟 [COR/NET](https://github.com/mem-arial/cornet) 📟 - new core for your Vulkan API renderer (by JS or Java).
+- [ ] 🎨 [COR/NET Vector](https://github.com/mem-arial/cornet-vc) 🎨 - new vector graphics rendering, alike GTK or Skia (but based on ray-tracing).
