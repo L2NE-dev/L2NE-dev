@@ -1,7 +1,5 @@
-# 🔐 We currently closed until... 🔐
+# I currently don't know what to write...
 
-We under revision...
+Stay tuned with 🚧 https://c24b.ru/ 🚧 (not complete, reserved)
 
-Stay tuned with https://c24b.ru/
-
-Or you can try our first application: https://app.c24b.ru/
+Or you can try our first application: 👑 https://app.c24b.ru/ 👑
