@@ -1,6 +1,3 @@
 # No Info...
 
 I cringed about my profile...
-
-- 🏬 https://github.com/JSConcept/uniform.ts 🏬 (in development)
-- 🏅 https://github.com/JSConcept/unite.js 🏅 (bit outdated)
