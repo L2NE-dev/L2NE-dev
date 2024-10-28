@@ -5,7 +5,7 @@
 - City : Krasnoyarsk
 - Time : GMT +7
 - Birth: 20.12.1995
-- Org  : IDC-LC (unofficial)
+- Org  : Unite-2 (unofficial)
 - Email: 
   - conway24b@yandex.ru
   - conway24b@gmail.com
