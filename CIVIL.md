@@ -1,6 +1,5 @@
-================================================================================
-The Happy Bunny License (Modified MIT License)
---------------------------------------------------------------------------------
+# The Happy Bunny License (Modified MIT License)
+
 Copyright (c) 2005 - G-Truc Creation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
