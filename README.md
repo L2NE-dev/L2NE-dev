@@ -27,7 +27,7 @@ I'm a passionate **Frontend Developer** with a strong focus on creating user-fri
 
 Here are some of my notable projects:
 
-- **[Unite 2 FE](https://github.com/orgs/unite-2-ts/repositories)** - huge collection of own SCSS, JS and TS libraries and services.
+- **[Unite 2-RE](https://github.com/orgs/unite-2-ts/repositories)** - huge collection of own SCSS, JS and TS libraries and services.
 
 ### 🌱 Learning
 
