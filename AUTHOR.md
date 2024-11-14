@@ -8,7 +8,8 @@ Something about me...
 - Time : GMT +7
 - Birth: 20.12.1995
 - Org  : Unite-2 (unofficial)
-- Email:
+
+**Email:**
 
   - <conway24b@yandex.ru>
   - <conway24b@gmail.com>
