@@ -2,6 +2,10 @@
 
 > Partially AI generated `README.md` for my profile.
 
+## ⚠️ Cautions
+
+There are indications of BDP, CPTSD... Also has an official diagnosis of Asperger's. ❌
+
 ## 🚀 About Me
 
 I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies ..., along with HTML, CSS, and JavaScript. My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
@@ -47,10 +51,6 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
   - <conway24b@gmail.com>
   - <conway24b@yandex.ru>
-
-## ⚠️ Cautions
-
-There are indications of BDP, CPTSD... Also has an official diagnosis of Asperger's. ❌
 
 ---
 
