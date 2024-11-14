@@ -2,17 +2,17 @@
 
 Something about me...
 
-- Nick : unit-404 (conway24b)
-- Name : Solovey Alexey
-- City : Krasnoyarsk
-- Time : GMT +7
-- Birth: 20.12.1995
-- Org  : Unite-2 (unofficial)
+- **Nick:** unit-404 (conway24b)
+- **Name:** Solovey Alexey
+- **City:** Krasnoyarsk
+- **Time:** GMT +7
+- **Birth:** 20.12.1995
+- **Org:** unite-2 (unofficial)
 
 **Email:**
 
-  - <conway24b@yandex.ru>
-  - <conway24b@gmail.com>
+- <conway24b@yandex.ru>
+- <conway24b@gmail.com>
 
 ## 📑 License Agreements (Restrictions)
 
@@ -22,4 +22,4 @@ Something about me...
 
 ## ⚠️ Cautions
 
-There are indications of BDP, CPTSD... Also has an official diagnosis of Asperger's. ❌
+There are indications of [BDP](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. ❌
