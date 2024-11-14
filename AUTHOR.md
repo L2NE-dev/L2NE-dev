@@ -1,5 +1,7 @@
 # 🗡️ Author Note 🗡️
 
+Something about me...
+
 - Nick : unit-404 (conway24b)
 - Name : Solovey Alexey
 - City : Krasnoyarsk
