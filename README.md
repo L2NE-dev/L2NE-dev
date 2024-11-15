@@ -14,9 +14,10 @@ I'm a passionate **Frontend Developer** with a strong focus on creating user-fri
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** JavaScript/TypeScript, HTML, CSS/SASS...
-- **Tools:** Vite, Git, Webpack (in past), pnpm/npm/yarn, Deno.
-- **Frameworks:** Svelte, Vue, React (in past), ***own conceptions***.
+- **Languages:** JavaScript/[TypeScript](https://www.typescriptlang.org/), HTML/[Pug](https://pugjs.org/), CSS/[SCSS](https://sass-lang.com/)...
+- **Tools:** Webpack (in past), **[Vite](https://vite.dev/)**, **[Deno](https://deno.com/)**, **[Git](https://git-scm.com/)**, pnpm/npm/yarn.
+- **Frameworks:** **[Vanilla](https://vanilla-js.com/)**, **[Lit](https://lit.dev/)**, **[SolidJS](https://solidjs.com/)**, **[Lucide](https://lucide.dev/)**, ***own conceptions***.
+- **Frameworks (in past):** Svelte, Vue, React
 - **Other:**
   - Responsive Design
   - Accessibility (a11y)
