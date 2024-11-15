@@ -25,4 +25,3 @@ Something about me...
 There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder). Like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌
 
 Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wikipedia.org/wiki/Emotional_dysregulation) has already been proven (despite the lack of direct indication in the diagnosis). Consider that emotional dysregulation is simply already proven to be 100% just by inference.
-
