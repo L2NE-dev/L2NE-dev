@@ -10,7 +10,7 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies ..., along with HTML, CSS, and JavaScript. My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
+I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies [Pug](https://pugjs.org/), [SCSS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), along with HTML, CSS, and JavaScript (and also bigger frameworks). My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
 
 ### 🛠️ Skills & Tools
 
@@ -44,6 +44,9 @@ Here are some of my notable projects:
 Currently learning:
 
 - Advanced performance optimization techniques
+- More CSS and JS tricks and techniques
+- More CSS standards and specifications
+- More EcmaScript conceptions
 
 ### 🎯 Interests
 
