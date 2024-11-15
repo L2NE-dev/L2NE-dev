@@ -6,6 +6,8 @@
 
 There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. ❌
 
+Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wikipedia.org/wiki/Emotional_dysregulation) has already been proven (despite the lack of direct indication in the diagnosis). Consider that emotional dysregulation is simply already proven to be 100% just by inference.
+
 ## 🚀 About Me
 
 I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies ..., along with HTML, CSS, and JavaScript. My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
