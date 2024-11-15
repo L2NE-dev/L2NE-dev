@@ -24,6 +24,13 @@ I'm a passionate **Frontend Developer** with a strong focus on creating user-fri
   - Progressive Web Apps (PWA)
   - CSP, CORS, CORP, etc.
   - Backend (Node.js, Fastify, Vite)
+- **Featured:**
+  - Deep CSS/SCSS tricking
+  - Passive CSS programming
+  - Multi-level coding concept
+  - Able to replicate most libraries
+  - Able re-generate newer concepts
+  - JS helping to CSS or vice versa
 
 ### 📈 Projects
 
