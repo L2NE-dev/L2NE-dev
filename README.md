@@ -11,7 +11,6 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 ## 📈 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=unit-404&show_icons=true&theme=radical)
-![GitHub langs](https://github-readme-stats.vercel.app/api/top-langs??username=unit-404&langs_count=8&show_icons=true&theme=radical)
 
 ## 🗃️ Stack
 
