@@ -192,6 +192,7 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - Among the larger number of letters, the letters I, R and sometimes E take first place
 - Note on logical inconsistency between the meanings of some words in different languages
   - "insult/инсульт" which meaning "оскорбление/stroke"
+- The most frequent numbers are **2** and **4**
 
 ---
 
