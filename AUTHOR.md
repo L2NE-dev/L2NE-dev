@@ -130,3 +130,9 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
   - Implementing an idea to create a smarter home space
 - Addressing current household/life concerns (unspecified)
 - Unspecified future plans
+
+### 📊 Facts 📊
+
+- Among the larger number of letters, the letters I, R and sometimes E take first place
+- Note on logical inconsistency between the meanings of some words in different languages
+  - "insult/инсульт" which meaning "оскорбление/stroke"

@@ -187,6 +187,12 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - Addressing current household/life concerns (unspecified)
 - Unspecified future plans
 
+### 📊 Facts 📊
+
+- Among the larger number of letters, the letters I, R and sometimes E take first place
+- Note on logical inconsistency between the meanings of some words in different languages
+  - "insult/инсульт" which meaning "оскорбление/stroke"
+
 ---
 
 🔥 Let's build something amazing together!
