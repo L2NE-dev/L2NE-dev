@@ -116,3 +116,17 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 - Influence of perfectionist attitudes
 - High levels of stress and tension
 - Difficulty maintaining balance between different areas of life
+
+## 🌏 Plans in ***reality*** 🌏
+
+- Finalizing the development of our web application and additional components to it
+- Closing academic issues at the university:
+  - Mathematics, mathematical analysis, linear algebra, analytical geometry
+  - Preparing a presentation on information technology and economics
+  - Studying economics and financial literacy
+  - Completion of various essays on assigned topics
+- Seeking additional funding for:
+  - Purchasing devices for radio electronics classes (Flipper Zero, STM32, etc.).
+  - Implementing an idea to create a smarter home space
+- Addressing current household/life concerns (unspecified)
+- Unspecified future plans
