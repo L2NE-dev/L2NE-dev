@@ -99,3 +99,9 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 - Analysis of causes and forms of deviant behavior
 - Understanding the neurobiological basis of mental disorders
 - Exploring the relationship between brain biochemistry and behavioral patterns
+
+## 📻 Possible plans in future 📻
+
+- Learning the basics of social engineering
+- Mastering NLP techniques and psychological mechanisms of propaganda
+- Gaining knowledge in the field of ethical hacking and information security

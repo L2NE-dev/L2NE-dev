@@ -156,6 +156,12 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - Understanding the neurobiological basis of mental disorders
 - Exploring the relationship between brain biochemistry and behavioral patterns
 
+### 📻 Possible plans in future 📻
+
+- Learning the basics of social engineering
+- Mastering NLP techniques and psychological mechanisms of propaganda
+- Gaining knowledge in the field of ethical hacking and information security
+
 ---
 
 🔥 Let's build something amazing together!
