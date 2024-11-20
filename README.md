@@ -143,6 +143,19 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - Worry about the consequences of one's actions
 - The feeling of being forced into confinement in your own body.
 
+**8. Research Interests:**
+
+- Deep interest in neurobiology and neurochemistry
+- Understanding the role of dopamine mechanisms in drives
+- Studying the biochemical basis of behavior
+- Investigating the nature of urges from a scientific perspective
+- Special interest in gender aspects of neurobiology
+- Study of the nature of depressive states
+- Study of mechanisms of borderline disorders
+- Analysis of causes and forms of deviant behavior
+- Understanding the neurobiological basis of mental disorders
+- Exploring the relationship between brain biochemistry and behavioral patterns
+
 ---
 
 🔥 Let's build something amazing together!
