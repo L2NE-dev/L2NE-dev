@@ -162,6 +162,17 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - Mastering NLP techniques and psychological mechanisms of propaganda
 - Gaining knowledge in the field of ethical hacking and information security
 
+### ❄️ Why progress too slowly? 🐌🐢
+
+- Lack of energy and resources to realize all plans
+- Feelings of exhaustion and decreased motivation
+- Difficulty in distributing and concentrating attention
+- Need to find ways to maintain/recover strength
+- Signs of emotional burnout
+- Influence of perfectionist attitudes
+- High levels of stress and tension
+- Difficulty maintaining balance between different areas of life
+
 ---
 
 🔥 Let's build something amazing together!
