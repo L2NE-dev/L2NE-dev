@@ -20,6 +20,20 @@ Something about me...
 - Please, save something from original trademark.
 - By making use of the Software for military purposes, you choose to make a Bunny unhappy.
 
+## 🗿 My true tenets 🗿
+
+- I don't self-medicate - I do everything I can to somehow stand on my feet, until the first free time...
+- I know I'm doing things that are not directly related to my life - however, I'm stuffing (myself) with the next (possibly important) trump cards and arguments...
+- I'd like to get a job, but I don't want to be enslaved forever by location, low pay, chronic illness, etc...
+- I'm in the process of laying out all the forces on my map so that I have somewhere to approach employers from, with a lot of security.
+- I don't want to show up anywhere with nothing on my hands, not even my own or important tools.
+- I want to do everything I can to make my entire future path to action easier, and have roadmaps for everything.
+- I don't want to be extremely dependent on third party vendors and developers who can cut my ends off (don't vendor.lock).
+- I know I risk not being able to do anything, but I'm doing my best not to get desperate and panic, and most importantly not to go crazy.
+- I don't give up on problems, but I delay or leave things that aren't a priority at all, but what might be important, I try to take on only when I'm as ready as possible.
+- And yet, I'm still not immune to anything, not at all...
+- I don't want a wife, I want a partner...
+
 ## ⚠️ Cautions
 
 There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder). Like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌
