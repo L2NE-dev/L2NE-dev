@@ -7,10 +7,11 @@
 > Code to block some actions of naive users...
 
 Ideal scenario for protect from ban avoid...
-Why? because after clear cache, memory process still remain
+Why? Because after clear cache, memory process still remain
 You can pass ban-system only if you block such events, or if you clear store in out of process
 
 ```js
+//some process or memory still remains even after clearing storage...
 addEventListener("beforeunload", saveToStorage);
 addEventListener("pagehide", saveToStorage);
 
@@ -18,6 +19,13 @@ addEventListener("pagehide", saveToStorage);
 document.addEventListener("visibilitychange", (ev)=>{
     if (document.visibilityState === "hidden") {
         saveToStorage(ev);
+    }
+});
+
+// but using such events may broke mechanism...
+addEventListener("storage", (ev)=>{
+    if (ev.storageArea == localStorage) {
+
     }
 });
 ```
