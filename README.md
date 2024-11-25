@@ -2,6 +2,26 @@
 
 > Partially AI generated `README.md` for my profile.
 
+## 🗡️ Less for your hopes, my small troll... 🗡️
+
+> Code to block some actions of naive users...
+
+Ideal scenario for protect from ban avoid...
+Why? because after clear cache, memory process still remain
+You can pass ban-system only if you block such events, or if you clear store in out of process
+
+```js
+addEventListener("beforeunload", saveToStorage);
+addEventListener("pagehide", saveToStorage);
+
+//
+document.addEventListener("visibilitychange", (ev)=>{
+    if (document.visibilityState === "hidden") {
+        saveToStorage(ev);
+    }
+});
+```
+
 ## ⚠️ Cautions
 
 There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder). Like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌
