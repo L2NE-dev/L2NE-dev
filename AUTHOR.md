@@ -37,6 +37,12 @@ Something about me...
 - Persuasion and evidence are more important than honesty and being right...
 - To me, faith in God means trusting in the unknown, uncertainty, unpredictability... and god doesn't like control, speculation, guesswork, assumptions, or inference... There is no room for ego or mindness here.
 
+**And, I know it about myself...**
+
+> "In your struggle against sin, you have not yet resisted to the point of shedding your blood..." i.e., you have only lost property and glory, suffered exile, but have not shed blood as Christ shed His blood for you.
+
+*Hebrews 12:4*
+
 ## ⚠️ Cautions
 
 There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder). Like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌

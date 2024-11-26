@@ -19,6 +19,12 @@
 - Persuasion and evidence are more important than honesty and being right...
 - To me, faith in God means trusting in the unknown, uncertainty, unpredictability... and god doesn't like control, speculation, guesswork, assumptions, or inference... There is no room for ego or mindness here.
 
+**And, I know it about myself...**
+
+> "In your struggle against sin, you have not yet resisted to the point of shedding your blood..." i.e., you have only lost property and glory, suffered exile, but have not shed blood as Christ shed His blood for you.
+
+*Hebrews 12:4*
+
 ## 🗡️ Less for your hopes, my small troll... 🗡️
 
 > Code to block some actions of naive users...
