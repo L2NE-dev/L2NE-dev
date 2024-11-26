@@ -4,6 +4,8 @@ GNU Lesser General Public License
 _Version 3, 29 June 2007_  
 _Copyright © 2007 Free Software Foundation, Inc. &lt;<http://fsf.org/>&gt;_
 
+> ⚠️ Bit modified by adding few lines, with additional agreements ⚠️
+
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
@@ -160,3 +162,7 @@ whether future versions of the GNU Lesser General Public License shall
 apply, that proxy's public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
+
+### 7. Additional Restrictions
+
+_By making use of the Software for military purposes, you choose to make a 🐰 unhappy._
