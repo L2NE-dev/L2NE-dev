@@ -2,6 +2,10 @@
 
 > Partially AI generated `README.md` for my profile.
 
+## 📩 My message board 📩
+
+- **[Message board](https://github.com/unit-404/unit-404/discussions)**...
+
 ## 🗿 My true tenets 🗿
 
 - I don't self-medicate - I do everything I can to somehow stand on my feet, until the first free time...
