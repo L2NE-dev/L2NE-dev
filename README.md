@@ -99,6 +99,23 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
+## 🎨 HSV? In my CSS?! 🎨
+
+Yes, this is real HSV.
+
+```scss
+.hsv-based {
+    --hsv-value: hsl(40 90 20); /* no-sense, it's hsv */
+
+    // for string interpolation
+    $L: calc((l / 100) * (1 - (s / 100) * 0.5));
+    $S: calc(((l / 100) - #{$L}) / min(#{$L}, 1 - #{$L}));
+
+    // use string interpolated $S and $L calc math
+    background-color: hsl(from var(--hsv-value) h calc(#{$S} * 100) calc(#{$L} * 100));
+}
+```
+
 ## 🗡️ Less for your hopes, my small troll... 🗡️
 
 > Code to block some actions of naive users...
