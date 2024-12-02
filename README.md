@@ -4,6 +4,8 @@
 
 I'm not so young student, individual with developmental delays.
 
+**From 2025 I will finally become a Junior Frontend developer, due to covering more than 80% of all roadmaps.** Accordingly, the first piece of evidence will be presented. The universal web-desktop-life web application project is already in development and the plan is 15% complete.
+
 ---
 
 ## 📑 License Agreements (Restrictions)
