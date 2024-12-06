@@ -20,7 +20,7 @@ I'm not so young student, individual with developmental delays.
 
 Here are some of my notable projects:
 
-- 🎸 **[Unite 2-RE](https://github.com/orgs/unite-2-ts/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
+- 🎸 **[Unite.2RE](https://github.com/orgs/unite-2-ts/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
 - 🌃 **[ADL-U2RE](https://github.com/C24N/ADL.U2RE)** 🌃 - (in development, private) our web application...
 
 ### 📌 Extended About 📌
