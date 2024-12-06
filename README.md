@@ -23,8 +23,8 @@ Here are some of my notable projects:
 
 ### 📝 Extended About 📝
 
-- 📩 **[Message board](https://github.com/unit-404/unit-404/discussions)** 📩
-- 🚩 **[Point of view](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
+- 📩 [Message board](https://github.com/unit-404/unit-404/discussions) 📩
+- 🚩 **[What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
 
 ---
 

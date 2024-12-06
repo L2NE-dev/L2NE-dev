@@ -39,6 +39,15 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 
 ### 📓 Additional 📓
 
+🚩 **Of the particularly negative qualities:** 🚩
+
+- Obsessive and intrusive behavior, wanting too much attention, taking time away from other people's...
+- Perfectionism, usually in order to inflate and inflate prices, features, functions, features, details, etc.
+
+⚠️ ***That is my real painful ressentiment and resentment (to you)...*** ⚠️
+
+I still don't know what is **"2RE"**, may means "**re**d-flag", "**re**ssentiment", "**re**sentment"...
+
 **1. The main issues:**
 
 - A sense of separation between personality and body
