@@ -16,14 +16,14 @@ I'm not so young student, individual with developmental delays.
 - Please, save something from original trademark.
 - By making use of the Software for military purposes, you choose to make a 🐰 unhappy.
 
-### 📈 Projects 📈
+### 🎯 Projects 🎯
 
 Here are some of my notable projects:
 
-- 🧩 **[Unite 2-RE](https://github.com/orgs/unite-2-ts/repositories)** 🧩 - huge collection of own SCSS, JS and TS libraries and services.
-- 📱 **[ADL-U2RE](https://github.com/C24N/ADL.U2RE)** 📱 - (in development) our web application...
+- 🎸 **[Unite 2-RE](https://github.com/orgs/unite-2-ts/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
+- 🌃 **[ADL-U2RE](https://github.com/C24N/ADL.U2RE)** 🌃 - (in development, private) our web application...
 
-### 📝 Extended About 📝
+### 📌 Extended About 📌
 
 - 📩 [Message board](https://github.com/unit-404/unit-404/discussions) 📩
 - 🚩 **[What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
@@ -69,7 +69,7 @@ I'm a passionate **Frontend Developer** with a strong focus on creating user-fri
   - Able re-generate newer concepts
   - JS helping to CSS or vice versa
 
-### 🌱 Learning
+### 📚 Learning
 
 Currently learning:
 
@@ -78,7 +78,7 @@ Currently learning:
 - More CSS standards and specifications
 - More EcmaScript conceptions
 
-### 🎯 Interests
+### 🎨 Interests
 
 Besides coding, I enjoy:
 
@@ -86,7 +86,7 @@ Besides coding, I enjoy:
 - Participating in hackathons and coding challenges
 - Exploring new tools and frameworks
 
-### 📫 Get In Touch
+### 💓 Get In Touch
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
@@ -103,7 +103,7 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-## 🎨 HSV? In my CSS?! 🎨
+## 🌈 HSV? In my CSS?! 🌈
 
 Yes, this is real HSV.
 
@@ -120,7 +120,7 @@ Yes, this is real HSV.
 }
 ```
 
-## 🗡️ Less for your hopes, my small troll... 🗡️
+## 🔰 Less for your hopes, my small troll... 🔰
 
 > Code to block some actions of naive users...
 
