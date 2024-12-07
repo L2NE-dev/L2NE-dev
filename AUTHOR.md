@@ -11,7 +11,7 @@
 - **Birth:** 20.12.1995
 - **Org:** [unite-2-re](https://github.com/orgs/unite-2-ts/repositories) (unofficial)
 - **Email:** <c24b@u2re.ru>
-- **OS:** os.u2re.space **(not yet released)**
+- **OS:** <https://os.u2re.space/> **(not yet released)**
 
 ## 📑 License Agreements (Restrictions)
 

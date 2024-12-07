@@ -91,7 +91,7 @@ Besides coding, I enjoy:
 Feel free to reach out if you want to collaborate or just chat about tech!
 
 - **Email:** <c24b@u2re.ru>
-- **OS:** os.u2re.space **(not yet released)**
+- **OS:** <https://os.u2re.space/> **(not yet released)**
 
 ---
 
