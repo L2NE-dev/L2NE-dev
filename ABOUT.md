@@ -32,6 +32,7 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 - I don't look for ways that are too easy or cheap, but I do prefer guaranteed or benefitable/profitable/favourable ways...
 - Persuasion and evidence are more important than honesty and being right...
 - To me, faith in God means trusting in the unknown, uncertainty, unpredictability... and god doesn't like control, speculation, guesswork, assumptions, or inference... There is no room for ego or mindness here.
+- **And in general, the best way to ruin your own life is to ruin the lives of others!**
 
 **And, I know it about myself...**
 
@@ -45,6 +46,7 @@ Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wik
 
 - Obsessive and intrusive behavior, wanting too much attention, taking time away from other people's...
 - Perfectionism, usually in order to inflate and inflate prices, features, functions, features, details, etc.
+- **And in general, the best way to ruin your own life is to ruin the lives of others!**
 
 ⚠️ ***That is my real painful ressentiment and resentment (to you)...*** ⚠️
 
