@@ -1,6 +1,6 @@
 # 🗡️ Author Note 🗡️
 
-🔙 **[Back?](https://github.com/unit-404)** 🔙
+🔙 **[Back?](https://github.com/u2re-dev)** 🔙
 
 📑 Something about me... 📑
 
@@ -10,9 +10,8 @@
 - **Time:** GMT +7
 - **Birth:** 20.12.1995
 - **Org:** [unite-2-re](https://github.com/orgs/unite-2-ts/repositories) (unofficial)
-- **Email:**
-  - <conway24b@yandex.ru>
-  - <conway24b@gmail.com>
+- **Email:** <c24b@u2re.ru>
+- **OS:** os.u2re.space **(not yet released)**
 
 ## 📑 License Agreements (Restrictions)
 

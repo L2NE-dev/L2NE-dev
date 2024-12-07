@@ -1,6 +1,6 @@
 # 🖤 Dark nights of soul... 🖤
 
-💼 **[Profile?](https://github.com/unit-404)** 💼
+💼 **[Profile?](https://github.com/u2re-dev)** 💼
 
 I'm not so young student, individual with developmental delays.
 
@@ -90,10 +90,8 @@ Besides coding, I enjoy:
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
-- Email:
-
-  - <conway24b@gmail.com>
-  - <conway24b@yandex.ru>
+- **Email:** <c24b@u2re.ru>
+- **OS:** os.u2re.space **(not yet released)**
 
 ---
 
