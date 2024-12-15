@@ -23,10 +23,17 @@ Here are some of my notable projects:
 - 🎸 **[Unite.2RE](https://github.com/orgs/unite-2-re/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
 - 🌃 [ADL.U2RE](https://github.com/unite-2-re/ADL.U2RE) 🌃 - (in development, private) our web application...
 
-### 📌 Extended About 📌
+**Hidden plans that are scheduled for release:**
 
-- 📩 [Message board](https://github.com/unit-404/unit-404/discussions) 📩
-- 🚩 **[What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
+> OS: <https://os.u2re.space/>
+
+- Calendar in TaskBar, Quick Settings
+- Improved file manager, directories support
+  - Support for HFS or backend file systems
+- Improved color scheme (dual and more color)
+  - Additional colors due to Hue shifts of 45 degrees on OkLCH
+  - Will be used, for example, folder icons
+  - Some important also will have another colors
 
 ---
 
@@ -145,6 +152,13 @@ addEventListener("storage", (ev)=>{
     }
 });
 ```
+
+---
+
+### 📌 Extended About 📌
+
+- 📩 [Message board](https://github.com/unit-404/unit-404/discussions) 📩
+- 🚩 **[What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
 
 ---
 
