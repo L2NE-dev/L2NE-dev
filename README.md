@@ -18,14 +18,14 @@ I'm not so young student, individual with developmental delays.
 
 ### 🎯 Projects 🎯
 
-Here are some of my notable projects:
+**Here are some of my notable projects:**
 
 - 🎸 **[Unite.2RE](https://github.com/orgs/unite-2-re/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
 - 🌃 [ADL.U2RE](https://github.com/unite-2-re/ADL.U2RE) 🌃 - (in development, private) our web application...
 
 **Hidden plans that are scheduled for release:**
 
-> OS: <https://os.u2re.space/>
+> 🪟 **OS:** <https://os.u2re.space/> 🪟
 
 - Calendar in TaskBar, Quick Settings
 - Improved file manager, directories support
