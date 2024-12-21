@@ -16,6 +16,8 @@ There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personal
 
 Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wikipedia.org/wiki/Emotional_dysregulation) has already been proven (despite the lack of direct indication in the diagnosis). Consider that emotional dysregulation is simply already proven to be 100% just by inference.
 
+**It's very possible that I'm actually a [sociopath/ASPD](https://en.wikipedia.org/wiki/Antisocial_personality_disorder)!**
+
 ## 🗿 My true tenets 🗿
 
 - I don't self-medicate - I do everything I can to somehow stand on my feet, until the first free time...
