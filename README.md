@@ -1,12 +1,8 @@
-# 🖤 Dark nights of soul... 🖤
+# 🏮 Happy new year... 🏮
 
-💼 **[Profile?](https://github.com/u2re-dev)** 💼
+> 🌲 **Welcome to 2025?** 🌲
 
 I'm not so young student, individual with developmental delays.
-
-**From 2025 I will finally become a Junior Frontend developer, due to covering more than 80% of all roadmaps.** Accordingly, the first piece of evidence will be presented. The universal web-desktop-life web application project is already in development and the plan is 20% complete.
-
-🚩 **But... my profile/account under risks to be got flagged!** 🚩
 
 ---
 
@@ -20,20 +16,39 @@ I'm not so young student, individual with developmental delays.
 
 **Here are some of my notable projects:**
 
-- 🎸 **[Unite.2RE](https://github.com/orgs/unite-2-re/repositories)** 🎸 - huge collection of own SCSS, JS and TS libraries and services.
-- 🌃 [ADL.U2RE](https://github.com/unite-2-re/ADL.U2RE) 🌃 - (in development, private) our web application...
+- 📕 [Unite.2RE](https://github.com/orgs/unite-2-re/repositories) 📕 - huge collection of own SCSS, JS and TS libraries and services.
+- 🌃 **[OS.U2RE](https://github.com/unite-2-re/ADL.U2RE)** 🌃 - (in development, private) our web application...
+- 🪟 **OS:** <https://os.u2re.space/> 🪟
 
-**Hidden plans that are scheduled for release:**
+---
 
-> 🪟 **OS:** <https://os.u2re.space/> 🪟
+## 🚀 About Me
 
-- Calendar in TaskBar, Quick Settings
-- Improved file manager, directories support
-  - Support for HFS or backend file systems
-- Improved color scheme (dual and more color)
-  - Additional colors due to Hue shifts of 45 degrees on OkLCH
-  - Will be used, for example, folder icons
-  - Some important also will have another colors
+I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies [Pug](https://pugjs.org/), [SCSS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), along with HTML, CSS, and JavaScript (and also bigger frameworks). My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
+
+**From 2025 I will finally become a Junior Frontend developer, due to covering more than 80% of all roadmaps.** Accordingly, the first piece of evidence will be presented. The universal web-desktop-life web application project is already in development and the plan is 20% complete.
+
+### 🛠️ Skills & Tools
+
+- **Languages:** JavaScript/[TypeScript](https://www.typescriptlang.org/), HTML, CSS/[SCSS](https://sass-lang.com/)...
+- **Tools:** **[Vite](https://vite.dev/)**, **[Git](https://git-scm.com/)**, pnpm/npm/yarn, other...
+- **Frameworks:** **[Vanilla](https://vanilla-js.com/)**, **[Lit](https://lit.dev/)**, **[SolidJS](https://solidjs.com/)**, ***own conceptions***.
+- **Assets:** **[Lucide](https://lucide.dev/)**, **['Source Sans'](https://fonts.google.com/specimen/Source+Sans+3)**, AI-Generated
+- **Frameworks (in past):** Svelte, Vue, React
+- **Other:**
+  - Responsive Design
+  - Accessibility (a11y)
+  - Performance Optimization
+  - Progressive Web Apps (PWA)
+  - CSP, CORS, CORP, etc.
+  - Backend (Node.js, Fastify, Vite)
+- **Featured:**
+  - Deep CSS/SCSS tricking
+  - Passive CSS programming
+  - Multi-level coding concept
+  - Able to replicate most libraries
+  - Able re-generate newer concepts
+  - JS helping to CSS or vice versa
 
 ---
 
@@ -51,48 +66,6 @@ I'm not so young student, individual with developmental delays.
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies [Pug](https://pugjs.org/), [SCSS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), along with HTML, CSS, and JavaScript (and also bigger frameworks). My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
-
-### 🛠️ Skills & Tools
-
-- **Languages:** JavaScript/[TypeScript](https://www.typescriptlang.org/), HTML/[Pug](https://pugjs.org/), CSS/[SCSS](https://sass-lang.com/)...
-- **Tools:** Webpack (in past), **[Vite](https://vite.dev/)**, **[Deno](https://deno.com/)**, **[Git](https://git-scm.com/)**, pnpm/npm/yarn.
-- **Frameworks:** **[Vanilla](https://vanilla-js.com/)**, **[Lit](https://lit.dev/)**, **[SolidJS](https://solidjs.com/)**, **[Lucide](https://lucide.dev/)**, ***own conceptions***.
-- **Frameworks (in past):** Svelte, Vue, React
-- **Other:**
-  - Responsive Design
-  - Accessibility (a11y)
-  - Performance Optimization
-  - Progressive Web Apps (PWA)
-  - CSP, CORS, CORP, etc.
-  - Backend (Node.js, Fastify, Vite)
-- **Featured:**
-  - Deep CSS/SCSS tricking
-  - Passive CSS programming
-  - Multi-level coding concept
-  - Able to replicate most libraries
-  - Able re-generate newer concepts
-  - JS helping to CSS or vice versa
-
-### 📚 Learning
-
-Currently learning:
-
-- Advanced performance optimization techniques
-- More CSS and JS tricks and techniques
-- More CSS standards and specifications
-- More EcmaScript conceptions
-
-### 🎨 Interests
-
-Besides coding, I enjoy:
-
-- Reading tech blogs and articles
-- Participating in hackathons and coding challenges
-- Exploring new tools and frameworks
-
 ### 💓 Get In Touch
 
 Feel free to reach out if you want to collaborate or just chat about tech!
@@ -102,13 +75,9 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-## 📈 Stats
+## 🧢 Some my tricks 🧢
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unit-404&show_icons=true&theme=radical)
-
----
-
-## 🌈 HSV? In my CSS?! 🌈
+### 🌈 HSV? In my CSS?! 🌈
 
 Yes, this is real HSV.
 
@@ -125,11 +94,10 @@ Yes, this is real HSV.
 }
 ```
 
-## 🔰 Less for your hopes, my small troll... 🔰
+### 🔰 Addition for Evercookies... 🔰
 
-> Code to block some actions of naive users...
+> Code to block some actions from of naive users...
 
-Ideal scenario for protect from ban avoid...
 Why? Because after clear cache, memory process still remain
 You can pass ban-system only if you block such events, or if you clear store in out of process
 
@@ -155,10 +123,12 @@ addEventListener("storage", (ev)=>{
 
 ---
 
-### 📌 Extended About 📌
+## 📌 Additional About 📌
+
+🚩 **But... my profile/account under risks to be got flagged!** 🚩
 
 - 📩 [Message board](https://github.com/unit-404/unit-404/discussions) 📩
-- 🚩 **[What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md)** 🚩
+- 🚩 [What is my re...](https://github.com/unit-404/unit-404/blob/main/ABOUT.md) 🚩
 
 ---
 

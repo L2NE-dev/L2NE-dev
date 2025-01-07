@@ -10,13 +10,9 @@
 
 ## ⚠️ Cautions
 
-**My profile/account under risks to be got flagged!**
+There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder).
 
-There are indications of [BPD](https://en.wikipedia.org/wiki/Borderline_personality_disorder), [CPTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder)... Also has an official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s. There are also isolated signs of [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [OCD](https://en.wikipedia.org/wiki/Obsessive–compulsive_disorder). Like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌
-
-Also de jure, de facto, the fact of [**emotional dysregulation**](https://en.wikipedia.org/wiki/Emotional_dysregulation) has already been proven (despite the lack of direct indication in the diagnosis). Consider that emotional dysregulation is simply already proven to be 100% just by inference.
-
-**It's very possible that I'm actually a [sociopath/ASPD](https://en.wikipedia.org/wiki/Antisocial_personality_disorder)!**
+**Has official diagnosis of [Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome)'s.** And like autistic people, I can have [Meltdown](https://en.wikipedia.org/wiki/Autistic_meltdown) and Shutdown. ❌
 
 ## 🗿 My true tenets 🗿
 
@@ -163,3 +159,9 @@ I still don't know what is **"2RE"**, may means "**re**d-flag", "**re**ssentimen
 - Note on logical inconsistency between the meanings of some words in different languages
   - "insult/инсульт" which meaning "оскорбление/stroke"
 - The most frequent numbers are **2** and **4**
+
+## 🪖 However 🪖
+
+I would want to hedge hard before going to far more risky actions, and completely refuse any favor or self-pity. Like turning in my biomaterials or DNA (including reproduction). Let's say **"back up"** or **"save"** for any contingency, although the wording is not quite right. I'm also considering **contracted service**. I expect to go on the full (counter-)offensive.
+
+**I don't know what's possible, they might force me to do it.**
