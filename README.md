@@ -96,3 +96,16 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 - **Email:** <c24b@u2re.ru>
 - **OS:** <https://os.u2re.space/> **(not yet released)**
+
+### 🌈 Color Model spoiler...
+
+HSV? HSL? HWB? Someone else?... No, it's even more...
+
+`H(t):F(x,y)`
+
+Where:
+- `t` variable RGB value...
+- `H` hue value of `t`
+- `F(x,y)` reversible and co-capable function, related to `H(t)`, which computes to origin `t` argument.
+
+I don't know about creating math, color and conversion library idea.
