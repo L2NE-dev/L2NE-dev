@@ -103,7 +103,7 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 HSV? HSL? HWB? Someone else?... No, it's even more...
 
-`H(t):F(x,y)`
+`t = H(t):F(x,y)`
 
 Where:
 - `t` variable RGB value...
