@@ -97,6 +97,8 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - **Email:** <c24b@u2re.ru>
 - **OS:** <https://os.u2re.space/> **(not yet released)**
 
+---
+
 ### 🌈 Color Model spoiler...
 
 HSV? HSL? HWB? Someone else?... No, it's even more...
