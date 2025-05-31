@@ -95,9 +95,10 @@ addEventListener("storage", (ev)=>{
 Feel free to reach out if you want to collaborate or just chat about tech!
 
 - **Email:** <c24b@u2re.ru>
-- **OS:** <https://os.u2re.space/> **(not yet released)**
 - **Telegram:** <https://t.me/u2re_space>
-- **Ethereum:** `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
+- **ETH/USDT:** `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
+- **TRX/USDT:** `TCXePhsrVb63qymT84KP8cEfGWAb7qCKYJ`
+- **OS:** <https://os.u2re.space/> **(too rigid)**
 
 ---
 
