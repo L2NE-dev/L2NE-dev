@@ -1,0 +1,196 @@
+// $main i.e. chromatic, such from $hue
+// $with i.e. acromatic, such from $gray
+// $coef i.e. chroma value
+// seems, may be needs to fix or adjust issues with operations
+@function mixc($main, $with, $coef) { // UNTESTED!
+    @return color-mix(in oklch, #{$main} calc((1 - $coef) * 100%), #{$with} calc($coef * 100%));
+}
+
+//
+@function oklch-hue-shift($color, $deg) {
+    @return oklch(from #{$color} l c calc(mod(h + $deg, 360deg)) / a);
+}
+
+// may has alt version with `color-mix`, based on `--backward-mod`, or directly determinated by @media
+@mixin dynamic-comp($name, $light, $dark) {
+    #{$name}: light-dark(#{$light}, #{$dark});
+}
+
+//
+@mixin derivate-surf($base, $names, $tones-light, $tones-dark) {
+    @for $i from 1 through length($names) {
+        $name      : nth($names      , $i);
+        $tone-light: nth($tones-light, $i);
+        $tone-dark : nth($tones-dark , $i);
+        --#{$name}-light: oklch(from #{$base} #{$tone-light / 100} calc(c * 0.05) h / a);
+        --#{$name}-dark : oklch(from #{$base} #{$tone-dark  / 100} calc(c * 0.05) h / a);
+        --#{$name}: light-dark(var(--#{$name}-light), var(--#{$name}-dark));
+    }
+}
+
+//
+$chroma-primary: 0.16;
+$chroma-surface: 0.04;
+$chroma-on: 0.02;
+$chroma-on-dark: 0.04;
+
+// AI-ver
+@mixin make-toned(
+    $name, 
+    $pure, 
+    $light-tone,    $dark-tone, 
+    $light-tone-on, $dark-tone-on,
+    $chroma: $chroma-primary,
+    $chroma-surf: $chroma-surface,
+    $chroma-on: $chroma-on,
+    $chroma-on-dark: $chroma-on-dark
+) {
+    $is-surface: str-index($name, 'surface') != null;
+    --#{$name}-light: oklch(from #{$pure} #{$light-tone / 100} #{$is-surface and $chroma-surf or $chroma} h / a);
+    --#{$name}-dark:  oklch(from #{$pure} #{$dark-tone  / 100} #{$is-surface and $chroma-surf or $chroma} h / a);
+    --#{$name}: light-dark(var(--#{$name}-light), var(--#{$name}-dark));
+    --on-#{$name}-light: oklch(from #{$pure} #{$light-tone-on / 100} #{$chroma-on} h / a);
+    --on-#{$name}-dark:  oklch(from #{$pure} #{$dark-tone-on  / 100} #{$chroma-on-dark} h / a);
+    --on-#{$name}: light-dark(var(--on-#{$name}-light), var(--on-#{$name}-dark));
+}
+
+/*
+// my-ver
+@mixin make-toned(
+    $name, 
+    $pure, 
+    $light-tone,    $dark-tone, 
+    $light-tone-on, $dark-tone-on
+) {
+    --#{$name}-light: oklch(from #{$pure} #{$light-tone / 100} calc(c * 0.8) h / a);
+    --#{$name}-dark:  oklch(from #{$pure} #{$dark-tone  / 100} calc(c * 0.8) h / a);
+    --#{$name}: light-dark(var(   --#{$name}-light), var(   --#{$name}-dark));
+
+    //
+    --on-#{$name}-light: oklch(from #{$pure} #{$on-light-tone / 100} calc(c * 0.01) h / a);
+    --on-#{$name}-dark:  oklch(from #{$pure} #{$on-dark-tone  / 100} calc(c * 0.05) h / a);
+    --on-#{$name}: light-dark(var(--on-#{$name}-light), var(--on-#{$name}-dark));
+}*/
+
+//
+@mixin as-theme-mixin($base) {
+    @include derivate-surf(
+        $base,
+        ('background', 'surface', 'inverse-on-surface',   'inverse-surface', 'on-surface', 'on-background'),
+        (100, 99, 90,   30, 20, 10), // light tones
+        (10 , 20, 30,   80, 85, 90)  // dark tones (примерные значения)
+    );
+}
+
+// needs calibration
+@mixin packed-color-group(
+    $name, $primary, 
+    $surface: var(--base-surface), 
+    $inverse: var(--base-inverse)
+) {
+       --#{$name}-container: #{mixc($primary,    $surface, 0.05)};
+    --on-#{$name}-container: #{mixc($primary, $on-surface, 0.05)};
+}
+
+// needs calibration
+@mixin packed-neutral-group($primary, $surface: var(--surface), $inverse: var(--inverse)) {
+       --surface-variant: #{mixc($primary, $surface, 0.1)};
+    --on-surface-variant: #{mixc($primary, $on-surface, 0.1)};
+
+    //
+    --outline        : #{mixc($primary, $surface, 0.6)};
+    --outline-variant: #{mixc($primary, $surface, 0.5)};
+}
+
+// needs calibration
+@mixin packed-surface-containers(
+    $primary, 
+    $surface: var(--base-surface), 
+    $inverse: var(--base-inverse)
+) {
+    // mixc($themed, $themedInv, 0.01) is balancing between light and dark (contrastics)
+    --surface-container-lowest:  #{mixc($surface, $inverse, 0.01)};
+    --surface-container-low:     #{mixc($surface, $inverse, 0.02)};
+    --surface-container:         #{mixc($surface, $inverse, 0.05)};
+    --surface-container-high:    #{mixc($surface, $inverse, 0.06)};
+    --surface-container-highest: #{mixc($surface, $inverse, 0.07)};
+
+    --surface-dim:               /*   dimmer-op */;//#{mixc($surface, $inverse, 0.01)};
+    --surface-bright:            /* brighter-op */;//#{mixc($surface, $inverse, 0.01)};
+}
+
+// needs calibration
+@mixin packed-inverse-group(
+    $primary, 
+    $surface: var(--surface), 
+    $inverse: var(--inverse),
+    $on-surface: var(--on-surface)
+) {
+    --inverse-on-surface: #{mixc($on-surface, $inverse, 0.1)};
+    --inverse-surface   : #{mixc($surface, $inverse, 0.9)};
+    --inverse-primary   : #{mixc($surface, $inverse, 0.9)};
+}
+
+
+
+//
+@mixin semi-static() {
+    --base-info   : #0288d1;
+    --base-error  : #ba1a1a;
+    --base-success: #2e7d32;
+    --base-warning: #fbc02d;
+}
+
+//
+@mixin triplet($base) {
+    --base-pure-secondary: #{oklch-hue-shift($base,  60)};
+    --base-pure-tertiary : #{oklch-hue-shift($base, 120)};
+}
+
+//
+@mixin packed-palette(
+    $primary  , 
+    $secondary, 
+    $tertiary , 
+    $error    , 
+    $surface  ,
+    $inverse
+) {
+    @include packed-color-group('primary'  , $primary  );
+    @include packed-color-group('secondary', $secondary);
+    @include packed-color-group('tertiary' , $tertiary );
+    @include packed-color-group('error'    , $error    );
+    @include packed-neutral-group($primary, $surface, $inverse);
+    @include packed-inverse-group($primary, $surface, $inverse);
+    @include packed-surface-containers($primary, $surface, $inverse);
+    --shadow: #000; 
+    --scrim : #000;
+}
+
+//
+@mixin themed() {
+    $primary:   var(--base-primary  , #6750a4);
+    $secondary: var(--base-secondary, #625b71);
+    $tertiary:  var(--base-tertiary , #7e5260);
+    $error:     var(--base-error    , #ba1a1a);
+    $surface:   var(--base-surface  , #625b71);
+    $inverse:   var(--base-inverse  , #625b71);
+
+    //
+    @include packed-palette($primary, $secondary, $tertiary, $error, $surface, $inverse);
+}
+
+//
+:root, body.light, body.dark {
+    --base-pure-primary: #6750a4; // may be median between [#cfbcff and #6750a4]!!
+    @include triplet(var(--base-pure-primary));
+    @include make-toned('primary'  , var(--base-pure-primary));
+    @include make-toned('secondary', var(--base-pure-secondary));
+    @include make-toned('tertiary' , var(--base-pure-tertiary));
+    @include semi-static();
+    @include themed();
+}
+
+// --backward-mod for `color-mix` based `light-dark` function, and determine by @media or class selector
+body.light { color-scheme: light only; --backward-mod: 1; }
+body.dark  { color-scheme: dark  only; --backward-mod: 0; }

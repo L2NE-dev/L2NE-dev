@@ -1,0 +1,68 @@
+// still partially actual
+@mixin property-color($name, $value) {
+    @at-root {
+        @property --#{$name} {
+            syntax: "<color>";
+            initial-value: #{$value};
+            inherits: true;
+        }
+    }
+}
+
+//
+@mixin property-color-group-single($group, $main, $on) {
+    @include property-color($group, $main);
+    @include property-color('on-' + $group, $on);
+}
+
+//
+@mixin property-color-group($group, $main, $on, $container, $onContainer) {
+    @include property-color($group, $main);
+    @include property-color($group + '-container', $container);
+    @include property-color('on-' + $group, $on);
+    @include property-color('on-' + $group + '-container', $onContainer);
+}
+
+//
+@mixin property-color-single($name, $value) {
+    @include property-color($name, $value);
+}
+
+// still partially actual
+@include property-color-group('primary'  , #6750a4, #ffffff, #e9ddff, #22005d);
+@include property-color-group('secondary', #625b71, #ffffff, #e8def8, #1e192b);
+@include property-color-group('tertiary' , #7e5260, #ffffff, #ffd9e3, #31101d);
+@include property-color-group('error'    , #ba1a1a, #ffffff, #ffdad6, #410002);
+
+//
+@include property-color-single('surface'        , #fdf8fd);
+@include property-color-single('surface-variant', #e7e0eb);
+@include property-color-single('background'     , #fffbff);
+
+//
+@include property-color-single('on-surface'        , #1c1b1e);
+@include property-color-single('on-surface-variant', #49454e);
+@include property-color-single('on-background'     , #1c1b1e);
+
+//
+@include property-color-single('outline'        , #7a757f);
+@include property-color-single('outline-variant', #cac4cf);
+
+//
+@include property-color-single('shadow', #000000);
+@include property-color-single('scrim' , #000000);
+
+//
+@include property-color-single('inverse-surface'   , #313033);
+@include property-color-single('inverse-primary'   , #cfbcff);
+@include property-color-single('inverse-on-surface', #f4eff4);
+
+//
+@include property-color-single('surface-dim'              , #ddd8dd);
+@include property-color-single('surface-bright'           , #fdf8fd);
+@include property-color-single('surface-container-lowest' , #ffffff);
+@include property-color-single('surface-container-low'    , #f7f2f7);
+@include property-color-single('surface-container'        , #f2ecf1);
+@include property-color-single('surface-container-high'   , #ece7eb);
+@include property-color-single('surface-container-highest', #e6e1e6);
+
