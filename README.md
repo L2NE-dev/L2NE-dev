@@ -48,7 +48,7 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ## Featured Projects
 
-- **[Unite.2RE](https://github.com/orgs/unite-2-re/repositories):** A growing suite of SCSS, JS, and TS libraries and utilities.
+- **[U2RE-Space](https://github.com/orgs/unite-2-re/repositories):** A growing suite of SCSS, JS, and TS libraries and utilities.
 
 ---
 
