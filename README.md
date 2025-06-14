@@ -1,116 +1,78 @@
-# U2RE-dev (about me/us)
+<h1 align="center"> 👋 Welcome to U2RE-dev</h1>
 
-## 🌐 Frontend-side 🌐
+<!-- Badges (шильдики для технологий, статистики и т.д.) -->
+<p align="center">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fad000?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="CSS"  src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-I'm a passionate **Frontend Developer** with a strong focus on creating user-friendly web applications. I have experience working with modern technologies [Pug](https://pugjs.org/), [SCSS](https://sass-lang.com/), [TypeScript](https://www.typescriptlang.org/), along with HTML, CSS, and JavaScript (and also bigger frameworks). My goal is to deliver high-quality, responsive, and accessible interfaces that provide an exceptional user experience.
+<!-- Animated SVG (пример с GitHub Stats) -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=u2re-dev&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
-### 🛠️ Skills & Tools
+<!-- Divider -->
+---
 
-- **Languages:** JavaScript/[TypeScript](https://www.typescriptlang.org/), HTML, CSS/[SCSS](https://sass-lang.com/)...
-- **Tools:** **[Vite](https://vite.dev/)**, **[Git](https://git-scm.com/)**, pnpm/npm/yarn, other...
-- **Frameworks:** **[Vanilla](https://vanilla-js.com/)**, **[Lit](https://lit.dev/)**, **[SolidJS](https://solidjs.com/)**, ***own conceptions***.
-- **Assets:** **[Lucide](https://lucide.dev/)**, **['Source Sans'](https://fonts.google.com/specimen/Source+Sans+3)**, AI-Generated
-- **Frameworks (in past):** Svelte, Vue, React
-- **Other:**
-  - Responsive Design
-  - Accessibility (a11y)
-  - Performance Optimization
+## Who We Are
+
+We are a collective of tech enthusiasts, creators, and perpetual learners. Our journey began with frontend development, but curiosity led us far beyond — into the realms of backend, automation, design, and even a bit of math and color science. We believe in building things that are not just functional, but delightful and meaningful.
+
+---
+
+## What We Do
+
+### Web Interfaces & Beyond 🌐
+
+- **Frontend:** We craft seamless, accessible, and high-performance user experiences using [TypeScript](https://www.typescriptlang.org/), [SCSS](https://sass-lang.com/), [Pug](https://pugjs.org/), and the best of HTML/CSS/JS. We love experimenting with frameworks like [Lit](https://lit.dev/), [SolidJS](https://solidjs.com/), and even our own concepts.
+- **Backend:** Node.js, Fastify, and Vite power our APIs and services. We’re not afraid to get our hands dirty with server logic or performance tuning.
+- **Automation & Tooling:** From custom build scripts to CI/CD pipelines, we automate the boring stuff so we can focus on what matters.
+- **Design & Assets:** We care about visuals — using [Lucide](https://lucide.dev/), [Source Sans](https://fonts.google.com/specimen/Source+Sans+3), and AI-generated assets to make our projects stand out.
+
+### Skills & Technologies 🛠️
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS/SCSS, Bash, a bit of Python
+- **Frameworks:** Vanilla JS, Lit, SolidJS, Svelte, Vue, React, and our own experimental ideas
+- **Tools:** Vite, Git, pnpm/npm/yarn, Figma, and more
+- **Specialties:**
+  - Responsive & accessible design
+  - Performance optimization
   - Progressive Web Apps (PWA)
-  - CSP, CORS, CORP, etc.
-  - Backend (Node.js, Fastify, Vite)
-- **Featured:**
-  - Deep CSS/SCSS tricking
-  - Passive CSS programming
-  - Multi-level coding concept
-  - Able to replicate most libraries
-  - Able re-generate newer concepts
-  - JS helping to CSS or vice versa
-
-### 🧢 Some my tricks 🧢
-
-#### 🌈 HSV? In my CSS?! 🌈
-
-Yes, this is real HSV.
-
-```scss
-.hsv-based {
-    --hsv-value: hsl(40 90 20); /* no-sense, it's hsv */
-
-    // for string interpolation
-    $L: calc((l / 100) * (1 - (s / 100) * 0.5));
-    $S: calc(((l / 100) - #{$L}) / min(#{$L}, 1 - #{$L}));
-
-    // use string interpolated $S and $L calc math
-    background-color: hsl(from var(--hsv-value) h calc(#{$S} * 100) calc(#{$L} * 100));
-}
-```
-
-#### 🔰 Addition for Evercookies... 🔰
-
-> Code to block some actions from of naive users...
-
-Why? Because after clear cache, memory process still remain
-You can pass ban-system only if you block such events, or if you clear store in out of process
-
-```js
-//some process or memory still remains even after clearing storage...
-addEventListener("beforeunload", saveToStorage);
-addEventListener("pagehide", saveToStorage);
-
-//
-document.addEventListener("visibilitychange", (ev)=>{
-    if (document.visibilityState === "hidden") {
-        saveToStorage(ev);
-    }
-});
-
-// but using such events may broke mechanism...
-addEventListener("storage", (ev)=>{
-    if (ev.storageArea == localStorage) {
-
-    }
-});
-```
+  - Security (CSP, CORS, CORP)
+  - Multi-level coding & library replication
+  - Cross-discipline problem solving
 
 ---
 
-## 🎯 Projects 🎯
+## Featured Projects
 
-**Here are some of my notable projects:**
-
-- 📕 [Unite.2RE](https://github.com/orgs/unite-2-re/repositories) 📕 - huge collection of own SCSS, JS and TS libraries and services.
-- 🌃 **[OS.U2RE](https://github.com/unite-2-re/ADL.U2RE)** 🌃 - (in development, private) our web application...
-- 🪟 **OS:** <https://os.u2re.space/> 🪟
-
-### 📑 License Agreements (Restrictions)
-
-- Do not distribute without author mentions...
-- Please, save something from original trademark.
-- By making use of the Software for military purposes, you choose to make a 🐰 unhappy.
+- **[Unite.2RE](https://github.com/orgs/unite-2-re/repositories):** A growing suite of SCSS, JS, and TS libraries and utilities.
 
 ---
 
-### 💓 Get In Touch
+## License & Philosophy 📜
 
-Feel free to reach out if you want to collaborate or just chat about tech!
+- Please credit the authors if you use our work.
+- Preserve the spirit of the original — don’t erase the roots.
+- No military use: make the 🐰 happy, not sad.
+
+---
+
+## Let’s Connect
 
 - **Email:** <c24b@u2re.ru>
-- **Telegram:** <https://t.me/u2re_space>
-- **ETH/USDT:** `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
-- **TRX/USDT:** `TCXePhsrVb63qymT84KP8cEfGWAb7qCKYJ`
-- **OS:** <https://os.u2re.space/> **(too rigid)**
+- **Telegram:** [@u2re_space](https://t.me/u2re_space)
+- **Crypto:**
+  - ***USDT/ETH***: `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
+  - ***USDT/TRX***: `TCXePhsrVb63qymT84KP8cEfGWAb7qCKYJ`
+- **Web OS:** [os.u2re.space](https://os.u2re.space/)
 
 ---
 
-### 🌈 Color Model spoiler...
+## What’s Next?
 
-HSV? HSL? HWB? Someone else?... No, it's even more...
+We’re always learning, always building. Whether it’s a new frontend trick, a backend optimization, or a wild idea in color theory — we’re here to explore and share.
 
-`t = H(t):F(x,y)`
-
-Where:
-- `t` variable RGB value...
-- `H` hue value of `t`
-- `F(x,y)` reversible and co-capable function, related to `H(t)`, which computes to origin `t` argument.
-
-I don't know about creating math, color and conversion library idea.
+*Curious? Inspired? Let’s build something together!*
