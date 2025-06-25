@@ -1,12 +1,10 @@
-# 🗺️ Unite-2-RE: Roadmap & План
+# 🗺️ U2RE: Roadmap & План
 
 ## 📚 Ссылки и ресурсы
 
-- [GitHub Unite-2-RE](https://github.com/orgs/unite-2-re)
-- [GitHub u2re-dev](https://github.com/u2re-dev)
+- [U2RE](https://github.com/u2re-space) (GitHub)
+- [Profile](https://github.com/u2re-dev) (GitHub)
 - [Yandex.Disk](https://disk.yandex.ru/d/k-6ZkNusnFxKmw)
-- [OS Demo](https://os.u2re.space/)
-- [Print Service](https://print.u2re.space/)
 
 ---
 

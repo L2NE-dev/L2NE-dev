@@ -78,9 +78,7 @@ addEventListener("storage", (ev)=>{
 
 **Here are some of my notable projects:**
 
-- 📕 [Unite.2RE](https://github.com/orgs/unite-2-re/repositories) 📕 - huge collection of own SCSS, JS and TS libraries and services.
-- 🌃 **[OS.U2RE](https://github.com/unite-2-re/ADL.U2RE)** 🌃 - (in development, private) our web application...
-- 🪟 **OS:** <https://os.u2re.space/> 🪟
+- 📕 [U2RE](https://github.com/u2re-space) 📕 - huge collection of own SCSS, JS and TS libraries and services.
 
 ### 📑 License Agreements (Restrictions)
 
