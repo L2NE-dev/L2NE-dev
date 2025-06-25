@@ -1,7 +1,5 @@
 # Frontend Roadmaps
 
-**General Reviews**
-
 ---
 
 ## JavaScript
@@ -43,7 +41,7 @@
 
 - [Markdown.view](https://github.com/u2re-space/markdown.view)
 - [WebApp.runtime](https://github.com/u2re-space/webapp.runtime)
-- [U2-Managment](https://github.com/u2re-space/unite-2.man)
+- [U2-Management](https://github.com/u2re-space/unite-2.man)
 
 **Неактивны (ригидность):**
 
