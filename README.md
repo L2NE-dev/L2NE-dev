@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to U2RE-dev</h1>
+<h1 align="center"> 👋 Welcome... </h1>
 
 <!-- Badges (шильдики для технологий, статистики и т.д.) -->
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Animated SVG (пример с GitHub Stats) -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=u2re-dev&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=A2E-dev&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
 <!-- Divider -->
 ---
@@ -46,12 +46,6 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ---
 
-## Featured Projects
-
-- **[U2RE-Space](https://github.com/u2re-space):** A growing suite of SCSS, JS, and TS libraries and utilities.
-
----
-
 ## License & Philosophy 📜
 
 - Please credit the authors if you use our work.
@@ -67,7 +61,6 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 - **Crypto:**
   - ***USDT/ETH***: `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
   - ***USDT/TRX***: `TCXePhsrVb63qymT84KP8cEfGWAb7qCKYJ`
-- **Web OS:** [os.u2re.space](https://os.u2re.space/)
 
 ---
 

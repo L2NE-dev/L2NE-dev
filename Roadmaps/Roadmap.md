@@ -1,10 +1,8 @@
-# 🗺️ U2RE: Roadmap & План
+# 🗺️ A2E: Roadmap & План
 
 ## 📚 Ссылки и ресурсы
 
-- [U2RE](https://github.com/u2re-space) (GitHub)
-- [Profile](https://github.com/u2re-dev) (GitHub)
-- [Yandex.Disk](https://disk.yandex.ru/d/k-6ZkNusnFxKmw)
+- [Profile](https://github.com/A2E-dev) (GitHub)
 
 ---
 

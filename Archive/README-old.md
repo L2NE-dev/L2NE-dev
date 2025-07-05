@@ -1,4 +1,4 @@
-# U2RE-dev (about me/us)
+# A2E... (about me/us)
 
 ## 🌐 Frontend-side 🌐
 
@@ -74,12 +74,6 @@ addEventListener("storage", (ev)=>{
 
 ---
 
-## 🎯 Projects 🎯
-
-**Here are some of my notable projects:**
-
-- 📕 [U2RE](https://github.com/u2re-space) 📕 - huge collection of own SCSS, JS and TS libraries and services.
-
 ### 📑 License Agreements (Restrictions)
 
 - Do not distribute without author mentions...
@@ -96,17 +90,17 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 - **Telegram:** <https://t.me/u2re_space>
 - **ETH/USDT:** `0x102E317665bBa4B4D2e2317Bf3c48F83FC13F4ec`
 - **TRX/USDT:** `TCXePhsrVb63qymT84KP8cEfGWAb7qCKYJ`
-- **OS:** <https://os.u2re.space/> **(too rigid)**
 
 ---
 
-### 🌈 Color Model spoiler...
+### 🌈 Color Model spoiler
 
 HSV? HSL? HWB? Someone else?... No, it's even more...
 
 `t = H(t):F(x,y)`
 
 Where:
+
 - `t` variable RGB value...
 - `H` hue value of `t`
 - `F(x,y)` reversible and co-capable function, related to `H(t)`, which computes to origin `t` argument.

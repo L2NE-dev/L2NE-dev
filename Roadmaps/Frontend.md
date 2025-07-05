@@ -31,31 +31,20 @@
 
 **Текущие на данный момент:**
 
-- [LUR.E](https://github.com/u2re-space/lur.e) [MD](LUR-E.md)
-- [DOM.ts](https://github.com/u2re-space/dom.ts) [MD](DOM.md)
-- [Object.ts](https://github.com/u2re-space/object.ts) [MD](Object.md)
-- [Theme.core](https://github.com/u2re-space/theme.core) [MD](Theme.md)
-- [Uniform.ts](https://github.com/u2re-space/uniform.ts) [MD](Uniform.md)
-
-**Меньшей силы:**
-
-- [Markdown.view](https://github.com/u2re-space/markdown.view)
-- [WebApp.runtime](https://github.com/u2re-space/webapp.runtime)
-- [U2-Management](https://github.com/u2re-space/unite-2.man)
-
-**Неактивны (ригидность):**
-
-- [UI.system](https://github.com/u2re-space/ui.system)
-- [OS-v1](https://github.com/u2re-space/OS.u2re.space)
+- [LUR.E](https://github.com/FE-ST/lur.e) [MD](LUR-E.md)
+- [DOM.ts](https://github.com/FE-ST/dom.ts) [MD](DOM.md)
+- [Object.ts](https://github.com/FE-ST/object.ts) [MD](Object.md)
+- [Theme.core](https://github.com/FE-ST/theme.core) [MD](Theme.md)
+- [Uniform.ts](https://github.com/FE-ST/uniform.ts) [MD](Uniform.md)
 
 **Эксперименты:**
 
-- [IMG-codec.mjs](https://github.com/u2re-dev/img-code.mjs)
-- [CSS-ray-tracer](https://github.com/u2re-dev/CSS-ray-tracer)
+- [IMG-codec.mjs](https://github.com/A2E-dev/img-code.mjs)
+- [CSS-ray-tracer](https://github.com/A2E-dev/CSS-ray-tracer)
 
 **Приостановленные (не провал):**
 
-- [IoT-dev](https://github.com/u2re-dev/IoT-dev)
+- [IoT-dev](https://github.com/A2E-dev/IoT-dev)
 
 ---
 
