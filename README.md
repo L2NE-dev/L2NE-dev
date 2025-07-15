@@ -2,12 +2,12 @@
 
 <!-- Badges (шильдики для технологий, статистики и т.д.) -->
 <p align="center">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fad000?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="CSS"  src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
-<img alt="SCSS" src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<a target="_blank" href="https://html.spec.whatwg.org/"><img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a target="_blank" href="https://tc39.es/ecma262/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fad000?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a target="_blank" href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a target="_blank" href="https://www.w3.org/TR/css/"><img alt="CSS"  src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" /></a>
+<a target="_blank" href="https://sass-lang.com/"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+<a target="_blank" href="https://nodejs.org/en"><img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 </p>
 
 <!-- Animated SVG (пример с GitHub Stats) -->
