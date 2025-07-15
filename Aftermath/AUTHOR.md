@@ -2,7 +2,7 @@
 
 📑 Something about me... 📑
 
-- **Nick:** A2E, C24B
+- **Nick:** L2NE, C24B
 - **Name:** Solovey Alexey (in civic, civil)
 - **City:** Krasnoyarsk
 - **Time:** GMT +7

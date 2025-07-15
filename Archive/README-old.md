@@ -1,4 +1,4 @@
-# A2E... (about me/us)
+# L2NE... (about me/us)
 
 ## 🌐 Frontend-side 🌐
 

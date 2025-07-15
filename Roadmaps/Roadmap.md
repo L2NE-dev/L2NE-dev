@@ -1,8 +1,8 @@
-# 🗺️ A2E: Roadmap & План
+# 🗺️ L2NE: Roadmap & План
 
 ## 📚 Ссылки и ресурсы
 
-- [Profile](https://github.com/A2E-dev) (GitHub)
+- [Profile](https://github.com/L2NE-dev) (GitHub)
 
 ---
 

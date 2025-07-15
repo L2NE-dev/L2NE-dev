@@ -39,12 +39,12 @@
 
 **Эксперименты:**
 
-- [IMG-codec.mjs](https://github.com/A2E-dev/img-code.mjs)
-- [CSS-ray-tracer](https://github.com/A2E-dev/CSS-ray-tracer)
+- [IMG-codec.mjs](https://github.com/L2NE-dev/img-code.mjs)
+- [CSS-ray-tracer](https://github.com/L2NE-dev/CSS-ray-tracer)
 
 **Приостановленные (не провал):**
 
-- [IoT-dev](https://github.com/A2E-dev/IoT-dev)
+- [IoT-dev](https://github.com/L2NE-dev/IoT-dev)
 
 ---
 

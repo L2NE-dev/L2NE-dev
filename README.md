@@ -11,7 +11,7 @@
 </p>
 
 <!-- Animated SVG (пример с GitHub Stats) -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=A2E-dev&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=L2NE-dev&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
 
 <!-- Divider -->
 ---
