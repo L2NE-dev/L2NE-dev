@@ -22,12 +22,17 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ---
 
+## Our Orgs and Development
+
+- <https://github.com/fest-live> (our libraries and frameworks)
+- <https://github.com/u2re-space> (include some older projects)
+
 ## What We Do
 
 ### Web Interfaces & Beyond 🌐
 
 - **Frontend:** We craft seamless, accessible, and high-performance user experiences using [TypeScript](https://www.typescriptlang.org/), [SCSS](https://sass-lang.com/), [Pug](https://pugjs.org/), and the best of HTML/CSS/JS. We love experimenting with frameworks like [Lit](https://lit.dev/), [SolidJS](https://solidjs.com/), and even our own concepts.
-- **Backend:** Node.js, Fastify, and Vite power our APIs and services. We’re not afraid to get our hands dirty with server logic or performance tuning.
+- **Backend:** Node.js, Fastify, and Vite power our APIs and services. We're not afraid to get our hands dirty with server logic or performance tuning.
 - **Automation & Tooling:** From custom build scripts to CI/CD pipelines, we automate the boring stuff so we can focus on what matters.
 - **Design & Assets:** We care about visuals — using [Lucide](https://lucide.dev/), [Source Sans](https://fonts.google.com/specimen/Source+Sans+3), and AI-generated assets to make our projects stand out.
 
@@ -49,12 +54,12 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 ## License & Philosophy 📜
 
 - Please credit the authors if you use our work.
-- Preserve the spirit of the original — don’t erase the roots.
+- Preserve the spirit of the original — don't erase the roots.
 - No military use: make the 🐰 happy, not sad.
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
 - **Email:** <c24b@u2re.ru>
 - **Telegram:** [@u2re_space](https://t.me/u2re_space)
@@ -64,8 +69,8 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ---
 
-## What’s Next?
+## What's Next?
 
-We’re always learning, always building. Whether it’s a new frontend trick, a backend optimization, or a wild idea in color theory — we’re here to explore and share.
+We're always learning, always building. Whether it's a new frontend trick, a backend optimization, or a wild idea in color theory — we're here to explore and share.
 
-*Curious? Inspired? Let’s build something together!*
+*Curious? Inspired? Let's build something together!*
