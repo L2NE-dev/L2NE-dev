@@ -22,10 +22,13 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ---
 
-## Our Orgs and Development
+## Our Development
 
 - <https://github.com/fest-live> (our libraries and frameworks)
 - <https://github.com/u2re-space> (include some older projects)
+- <https://t.me/u2re_space> (our telegram group)
+
+---
 
 ## What We Do
 
