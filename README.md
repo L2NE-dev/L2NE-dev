@@ -26,7 +26,13 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 - <https://github.com/fest-live> (our libraries and frameworks)
 - <https://github.com/u2re-space> (include some older projects)
-- <https://t.me/u2re_space> (our telegram group)
+- **<https://t.me/u2re_space>** (our telegram group)
+
+### 🏮 Alpha Testing 🏮
+
+- 🥀 **<https://u2re.space/>** (***"CrossWord"***) 🥀
+- 📌 ***<https://github.com/u2re-space/crossword>*** 📌
+- 🎒 **Our life organizer web application** 🎒
 
 ---
 
