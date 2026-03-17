@@ -33,9 +33,9 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ### 🏮 Alpha Testing 🏮
 
-- 🥀 **<https://u2re.space/>** (***"CrossWord"***) 🥀
-- 📌 ***<https://github.com/u2re-space/crossword>*** 📌
-- 🎒 **Our life organizer web application** 🎒
+- 🥀 **<https://u2re.space/>** (***"CrossWord"***)
+- 📌 ***<https://github.com/u2re-space/crossword>***
+- 🎒 **Our life organizer web application**
 
 ---
 
