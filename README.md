@@ -71,16 +71,6 @@ We are a collective of tech enthusiasts, creators, and perpetual learners. Our j
 
 ---
 
-## Let's Connect
-
-- **Email:** <c24b@u2re.ru>
-- **Telegram:** [@u2re_space](https://t.me/u2re_space)
-- **Crypto:**
-  - ***USDT (ERC20)***: `0x9518A1b9C320aD7d56A2Eb381ACD2E0be9A99D06`
-  - ***USDT (TRC20)***: `TSLZn5az9NPfgFYUeGsgXuQNg4yjJosVbm`
-
----
-
 ## What's Next?
 
 We're always learning, always building. Whether it's a new frontend trick, a backend optimization, or a wild idea in color theory — we're here to explore and share.
@@ -204,18 +194,3 @@ We're always learning, always building. Whether it's a new frontend trick, a bac
 
 </details>
 
----
-
-Кстати, я ещё больше месяца не смогу купить себе подписку Cursor IDE, так как в этом месяце (200$) у меня таких лишних долларов не найдётся, а именно 20000₽ рублей...
-
-🐷 Хотите развития быстрее -  жертвуйте нам! 🐷
-
-- В USDT (TRC-20): 
-  - `TSLZn5az9NPfgFYUeGsgXuQNg4yjJosVbm`
-- USDT (ERC-20): 
-  - `0x9518A1b9C320aD7d56A2Eb381ACD2E0be9A99D06`
-
-Если можете или желаете поддержать на мои проекты и помощь мне (специалистов), может задонатить по номеру (желательно от 2000₽), да и вообще, дайте в целом столько, на-сколько сможете мне дать... а то я так и не дотяну до пенсий, деньги уходят быстрее...:
-- `+79398214957` 💸 (ВТБ или Т-Банк)
-
----
